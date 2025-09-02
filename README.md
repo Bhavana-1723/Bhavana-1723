@@ -9,8 +9,8 @@
 ---
 
 ## 🛠️ Skills I'm Learning
-- Python (Coming soon)
-- SQL (In progress ✅)
+- Python 
+- SQL 
 - Excel & Advanced Excel ✅
 - Data Analysis & Visualization
 - Communication & Presentation
